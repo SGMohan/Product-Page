@@ -27,14 +27,14 @@
 
 ---
 ## Install Dependencies
-npm install 
-npm install tailwindcss @tailwindcss/vite
-npm install react-icons --save 
-npm install prop-types --save
+- npm install 
+- npm install tailwindcss @tailwindcss/vite
+- npm install react-icons --save 
+- npm install prop-types --save
 
 
 ## Start the development environment
-npm run dev
+- npm run dev
 
 
 ## Folder Structure
@@ -44,7 +44,6 @@ shop-on/
 │   ├── Components/      # Reusable components
 │   ├── App.jsx          # Main application component
 │   ├── main.jsx         # Entry point
-├── tailwind.config.js   # Tailwind CSS configuration
 ├── README.md            # Project documentation
 └── package.json         # Project dependencies
 
