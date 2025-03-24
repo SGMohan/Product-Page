@@ -14,7 +14,7 @@ const CartModal = ({ isOpen, onClose, cartItems, removeFromCart }) => {
         ) : (
           <ul>
             {cartItems.map((item, index) => (
-              <li key={index} className="border-b  py-2">
+              <li key={index} className="border-b py-2">
                 <div className="flex justify-between items-center">
                   <div>
                     <img
