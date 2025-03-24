@@ -39,11 +39,11 @@
 
 ## Folder Structure
 shop-on/
-├── public/              # Static assets
-├── src/                 # Source code
-│   ├── Components/      # Reusable components
-│   ├── App.jsx          # Main application component
-│   ├── main.jsx         # Entry point
-├── README.md            # Project documentation
-└── package.json         # Project dependencies
+- ├── public/              # Static assets
+- ├── src/                 # Source code
+- │   ├── Components/      # Reusable components
+- │   ├── App.jsx          # Main application component
+- │   ├── main.jsx         # Entry point
+- ├── README.md            # Project documentation
+- └── package.json         # Project dependencies
 
